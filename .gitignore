@@ -1,0 +1,4 @@
+data/*
+Embedding/chroma/*
+config.py
+__pycache__/*
